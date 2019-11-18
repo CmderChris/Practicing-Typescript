@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "es5",                          
+    "module": "none",                     
+    "strict": true,                           
+    "esModuleInterop": true                   
+  },
+  "files": [
+    "./js-kitchen-sink/ks-app.ts",
+    "./console-resume/cr-app.ts",
+    "./dicey-business/db-app.ts"
+  ]
+}
